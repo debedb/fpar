@@ -1,0 +1,7 @@
+2.E-10,1.9e-11,2.4E-9         ! DAl0,DAl1,DOx  (cm^2/s)
+2.E-12,1.9e-13,2.4E-7         ! DAl0InAlO,DAl1InAlO3,DOxInAlO (cm^2/s)
+2.0E6 1 1                     ! R0,nAl,nO 
+0.348 0.187 1.65e-5           ! AlB,AlSCX,Ox0 mol/cm^3 (mol/cm^3)
+222.6E6,353.9E6,2.37E3        ! QAl,QOx,DG0 (J/kmol)
+1323.D0,1273.D0,833.D0        ! TAl,TOx,TG0 (K)
+0.0125,0.0002E0               ! h,AlOcr (cm, mol/cm^3)
